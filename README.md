@@ -22,3 +22,10 @@ Successful URL responses should have a 200 code. Ensure that you include error c
 ## License
 
 [License](LICENSE.txt)
+
+
+## Beanstalk url + endpoint for the project
+http://udacity-cloud-developer-project2-dev.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://upload.wikimedia.org/wikipedia/commons/b/bd/Golden_tabby_and_white_kitten_n01.jpg
+
+Screenshot of beanstalk: 
+![img.png](img.png)
